@@ -8,10 +8,10 @@ namespace Zad1
         {
             if (a < b && a < c) return a;
 
-            if (b < a && b < c) return b;
+            else if (b < a && b < c) return b;
 
-            if (c < b && c < a) return c;
-            if (a == b && a < c)
+            else if (c < b && c < a) return c;
+            else if (a == b && a < c)
                 return a;
             return c;
         }
