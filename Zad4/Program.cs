@@ -13,6 +13,7 @@ namespace Zad4
                     (y3 >= y1 && y3 <= y2) || (y1 >= y3 && y2 <= y4) || (y3 >= y1 && y4 <= y2))
                     return true;
             }
+
             return false;
         }
 
@@ -34,4 +35,4 @@ namespace Zad4
             Console.ReadKey();
         }
     }
-}   
+}

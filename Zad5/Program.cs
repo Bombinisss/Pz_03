@@ -6,14 +6,14 @@ namespace Zad5
     {
         public static void Main(string[] args)
         {
-            string[] PoryRoku = { "Wiosna", "Lato", "Jesień", "Zima"};
-            string poraUlubiona = "Lato",poraNielubiana = "Jesień";
-            
+            string[] PoryRoku = { "Wiosna", "Lato", "Jesień", "Zima" };
+            string poraUlubiona = "Lato", poraNielubiana = "Jesień";
+
             Console.WriteLine("Zgadnij jedno lubiane: Wiosna, Lato, Jesień, Zima");
-            if (Console.ReadLine()==poraUlubiona){Console.WriteLine("użytkownik zgadł");}
-            
+            if (Console.ReadLine() == poraUlubiona) Console.WriteLine("użytkownik zgadł");
+
             Console.WriteLine("Zgadnij jedno nielubiane: Wiosna, Lato, Jesień, Zima");
-            if (Console.ReadLine()==poraNielubiana){Console.WriteLine("użytkownik zgadł");}
+            if (Console.ReadLine() == poraNielubiana) Console.WriteLine("użytkownik zgadł");
 
             Console.ReadKey();
         }
