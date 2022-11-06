@@ -1,0 +1,7 @@
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\bin\Debug\Zad7.exe
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\bin\Debug\Zad7.pdb
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\obj\Debug\Zad7.csproj.AssemblyReference.cache
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\obj\Debug\Zad7.csproj.SuggestedBindingRedirects.cache
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\obj\Debug\Zad7.csproj.CoreCompileInputs.cache
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\obj\Debug\Zad7.exe
+C:\Users\BB\RiderProjects\BombalaAntoni_Pz03\Zad7\obj\Debug\Zad7.pdb
